@@ -5,6 +5,8 @@ body{
 }
 .container{
     background-color: white;
+    border: solid 2px blue;
+    
 }
 
 header{
@@ -13,4 +15,11 @@ header{
 
 footer{
     background-color: teal;
+}
+.main{
+    border:solid 2px black;
+}
+.contact__me{
+    border:solid 2px red;
+    background-color: black;
 }
